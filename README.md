@@ -1,18 +1,19 @@
-# Iquiz
- <h1>📚 Interactive Quiz App</h1>
-        <h2>📌 Project Overview</h2>
-        <p>This is a simple **interactive quiz application** built using **HTML, CSS, and JavaScript**. It allows users to answer multiple-choice questions and keeps track of their score.</p>
-        
-        <h2>✨ Features</h2>
-        <ul>
-            <li>Dynamic question rendering</li>
-            <li>Multiple-choice selection</li>
-            <li>Instant answer validation</li>
-            <li>Score tracking at the end</li>
-        </ul>
+# Interactive Quiz App
 
-        <h2>🚀 How to Use</h2>
-        <p>Simply open the <strong>index.html</strong> file in a browser and start answering the questions!</p>
+## Project Overview
+This is a simple quiz application built using HTML, CSS, and JavaScript. It allows users to answer multiple-choice questions and tracks their score.
 
-        <h2>Created By</h2>
-        <p><strong>Navya sree Uppathi</strong></p>
+## Features
+- Multiple-choice questions
+- Instant feedback on answers
+- Score tracking
+- Simple and interactive design
+
+## How to Use
+1. Open `quiz.html` in a browser.
+2. Read the question and select an answer.
+3. Click "Next" to move to the next question.
+4. At the end, the final score is displayed.
+
+## Author
+Navya Sree Uppathi
